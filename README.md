@@ -1,3 +1,3 @@
 # GitHub Lunch and Learn Demo
 
-A Simple Readme for a Simple Project
+A simple readme for a simple project
